@@ -1,0 +1,11 @@
+doctype
+html
+  head
+    title Phaser test
+  body
+    h1 My Phazer Game
+
+    https://cdnjs.cloudflare.com/ajax/libs/phaser/2.3.0/phaser.js
+  
+
+
