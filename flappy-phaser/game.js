@@ -1,1 +1,1 @@
-console.log("making a game");
+console.log("Getting ready to make a game");
